@@ -6,10 +6,17 @@ navbar_entries:
     url: blog
 
   - title: music
-    url: https://www.bandlab.com/bob_johnson105
+    entries:    - title: Bandlab
+  	        - url: https://www.bandlab.com/bob_johnson105
+
+  		- title: Bandcamp
+  		- url: https://bobjohnson105.bandcamp.com/
+
+  		- title: Soundcloud
+  		- url: https://soundcloud.com/bob-johnson-821538331
   
   - title: itch.io
-    url: https://bobjohnson.itch.io/
+  -  url: https://bobjohnson.itch.io/
 
 project_entries:
   - title: Virtual_Dustpan
@@ -18,16 +25,6 @@ project_entries:
   - title: Dead Pixels
     url: https://bobjohnson.itch.io/dead-pixels
     desc: A small game made in Unity!
-
-links_to_stuff:
-  - title: Bandlab
-  - url: https://www.bandlab.com/bob_johnson105
-
-  - title: Bandcamp
-  - url: https://bobjohnson105.bandcamp.com/
-
-  - title: Soundcloud
-  - url: https://soundcloud.com/bob-johnson-821538331
 
 old_project_entries:
   - title: 
