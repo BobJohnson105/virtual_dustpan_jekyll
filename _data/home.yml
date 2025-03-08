@@ -5,24 +5,18 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: Music 
-    entries:
-      - title: Bandlab
-        url: https://www.bandlab.com/bob_johnson105
+  - title: music
+    entries:    - title: Bandlab
+  	        - url: https://www.bandlab.com/bob_johnson105
 
-      - title: Bandcamp
-        url: https://bobjohnson105.bandcamp.com/
-  - title: Bandlab
-  - url: https://www.bandlab.com/bob_johnson105
+  		- title: Bandcamp
+  		- url: https://bobjohnson105.bandcamp.com/
 
-  - title: Bandcamp
-  - url: https://bobjohnson105.bandcamp.com/
-
-  - title: Soundcloud
-  - url: https://soundcloud.com/bob-johnson-821538331
+  		- title: Soundcloud
+  		- url: https://soundcloud.com/bob-johnson-821538331
   
   - title: itch.io
-  - url: https://bobjohnson.itch.io/
+  -  url: https://bobjohnson.itch.io/
 
 project_entries:
   - title: Virtual_Dustpan
