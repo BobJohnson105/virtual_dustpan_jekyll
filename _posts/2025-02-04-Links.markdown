@@ -1,6 +1,3 @@
-<h1>Links</h1>
-<hr>
-<a href="https://www.bandlab.com/bob_johnson105">Bandlab</a>
-<a href="https://bobjohnson105.bandcamp.com/">Bandcamp</a>
-<a href="https://soundcloud.com/bob-johnson-821538331">Soundcloud</a>
-<hr>
+Bandlab: https://www.bandlab.com/bob_johnson105
+Bandcamp: https://bobjohnson105.bandcamp.com/
+Soundcloud: https://soundcloud.com/bob-johnson-821538331
