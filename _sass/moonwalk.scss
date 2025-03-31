@@ -189,6 +189,10 @@ p code, li code {
   color: var(--code-text);
   font-weight: bold;
 }
+.TitleBanner {
+  background-size: cover;
+  background-position: center;
+}
 .post-title {
   margin-bottom:-1.5rem;
 }
