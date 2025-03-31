@@ -18,6 +18,9 @@ project_entries:
   - title: Dead Pixels
     url: https://bobjohnson.itch.io/dead-pixels
     desc: A small game made in Unity!
+  - title: Watt Could Go Wrong?
+    url: https://bobjohnson.itch.io/watt-could-go-wrong
+    desc: My first game jam, built as part of a team of 6!
 
 links_to_stuff:
   - title: Bandlab
