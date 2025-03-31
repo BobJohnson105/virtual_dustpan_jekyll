@@ -2,7 +2,7 @@
 layout: post
 title: "Oh dear"
 date: 2025-03-30 00:53:00 +0000
-featured-img: images/grim reaper.jpg
+featured-img: /images/grim reaper.jpg
 categories: blog
 ---
 
