@@ -11,6 +11,9 @@ navbar_entries:
   - title: itch.io
     url: https://bobjohnson.itch.io/
 
+  - title: youtube
+    url: https://www.youtube.com/@virtualdustpan
+
 project_entries:
   - title: Virtual_Dustpan
     url: /jekyll/update/2024/11/27/Virtual_dustpan.html
